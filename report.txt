@@ -1,0 +1,7 @@
+Student Report
+===============
+Name    : aa
+Total   : 67.00
+Subjects: 7
+Average : 9.57
+Grade   : D
