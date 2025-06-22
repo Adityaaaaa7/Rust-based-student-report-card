@@ -1,7 +1,7 @@
 [package]
-name = "student_grader"
+name = "rust_student_report"
 version = "0.1.0"
-edition = "2024"
+edition = "2021"
 
 [dependencies]
-genpdf = "0.2.0"
+printpdf = "0.5.3"
